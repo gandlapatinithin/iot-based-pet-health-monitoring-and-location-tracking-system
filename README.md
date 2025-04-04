@@ -76,7 +76,7 @@ A smart IoT-based solution for real-time tracking and monitoring of pets using A
 
 ## 📸 Screenshots
 
-> *(Add your project setup images or working prototype photos here)*
+> [*Demo Screenshot*](https://github.com/gandlapatinithin/iot-based-pet-health-monitoring-and-location-tracking-system/blob/main/Results/results.jpg)
 
 ---
 
